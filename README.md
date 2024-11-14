@@ -58,12 +58,6 @@ The dataset `schools.csv` contains SAT scores for schools in New York City, incl
 
 ---
 
-### License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ### Acknowledgements
 
 This project is based on a learning exercise from [DataCamp](https://www.datacamp.com/), with the structure provided by them. All code and solutions have been written by me.# Project: Exploring NYC Public School Test Result Scores
